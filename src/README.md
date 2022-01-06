@@ -8,4 +8,4 @@ https://en.wikipedia.org/wiki/Anneke
 ![](https://github.com/nondejus/the-basics/blob/main/src/ArtBoard%20Image%20(73).jpg)
 https://en.wikipedia.org/wiki/Nerve_agent
 ![](https://github.com/nondejus/the-basics/blob/main/src/ArtBoard%20Image%20(105).jpg)
-https://en.wikipedia.org/wiki/Poisoning
+https://en.wikipedia.org/wiki/Mass_killing
